@@ -61,6 +61,7 @@ print("Hello, World!")
 $E=mc^2$
 
 블록 수식:
+
 $$
 \int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
 $$
