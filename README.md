@@ -43,12 +43,5 @@
 print("Hello, World!")
 ​```
 
-인라인 수식: 
-$E=mc^2$
-
-블록 수식:
-$$
-\int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
-$$
 
 
